@@ -3,7 +3,7 @@
     <apiVersion>62.0</apiVersion>
     <areMetricsLoggedToDataCloud>false</areMetricsLoggedToDataCloud>
     <assignments>
-        <description>Sets decision and feedback to values from GetContentManagerFeedback. Sets reviewer to the first and last name of the flow user.</description>
+        <description>Sets decision and feedback to values from GetContentManager  Feedback. Sets reviewer to the first and last name of the flow user.</description>
         <name>AssignReviewOutcomes</name>
         <label>Assign Review Outcomes</label>
         <locationX>176</locationX>
